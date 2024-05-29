@@ -1,0 +1,27 @@
+{
+  "name": "coder_interviewer",
+  "version": "1.0.0",
+  "description": "Collaborative code execution and interview platform",
+  "main": "server/server.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "start": "node server/server.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^5.2.0",
+    "socket.io": "^4.0.0",
+    "vite": "^2.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.0"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
