@@ -23,6 +23,3 @@ This is a collaborative code execution and interview platform.
 1. Visit `http://localhost:3000`
 2. Use the UI to create and join sessions, write and execute code, and manage interview sessions.
 
-## License
-
-This project is licensed under the MIT License.
